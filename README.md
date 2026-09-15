@@ -1,3 +1,9 @@
+# Devpost Link:
+https://devpost.com/software/prj-name
+
+# Demo Link:
+https://www.youtube.com/watch?v=g5XAcrgzp_Q&time_continue=146&source_ve_path=MjM4NTE&embeds_referring_euri=https%3A%2F%2Fdevpost.com%2F
+
 ## Inspiration
 Our inspiration is to help out those affect by the recent LA fires to find quality rental properties at an affordable price.
 
